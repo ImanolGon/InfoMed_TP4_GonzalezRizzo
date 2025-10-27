@@ -20,7 +20,6 @@ Según su función, es de tipo **transaccional** porque permite realizar operaci
 
 - La especialidad de los médicos se modela como entidad independiente para eliminar la redundancia e inconsistencia, porque la misma especialidad puede estar asociada a más médicos.
 
-📷 *Insertar imagen del diagrama entidad-relación (DER-Chen)*  
 ![Diagrama Chen](img/tp4_img0.png)
 
 ---
@@ -32,8 +31,7 @@ Según su función, es de tipo **transaccional** porque permite realizar operaci
 Mapeo del modelo conceptual planteado al modelo relacional de la base de datos.  
 
 > “Supongamos que todo médico debe tener una especialidad para poder realizar una consulta.”
-
-📷 *Insertar imagen del diagrama relacional (Crow’s Foot)*  
+ 
 ![Modelo Relacional](img/tp4_img1.png)
 ![Modelo Relacional](img/tp4_img2.png)
 
