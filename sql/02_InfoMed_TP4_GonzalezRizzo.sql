@@ -1,0 +1,4 @@
+SELECT id_paciente, nombre, fecha_nacimiento,
+       EXTRACT(YEAR FROM AGE(CURRENT_DATE, fecha_nacimiento)) AS edad
+FROM Pacientes;
+``` :contentReference[oaicite:4]{index=4}
