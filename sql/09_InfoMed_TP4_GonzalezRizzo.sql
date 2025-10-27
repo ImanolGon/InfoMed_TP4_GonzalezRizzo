@@ -3,4 +3,3 @@ FROM medicos m
 LEFT JOIN recetas r ON m.id_medico = r.id_medico
 GROUP BY m.nombre
 ORDER BY cantidad_recetas DESC;
-``` :contentReference[oaicite:11]{index=11}
