@@ -20,8 +20,7 @@
 
 ### **Año:** 2025  
 
-
-<img src="sql/img/itba_logo.png" width="250" alt="Logo ITBA">
+![Logo ITBA](img/itba_logo.png)
 
 </div>
 
