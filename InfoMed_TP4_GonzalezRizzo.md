@@ -1,5 +1,5 @@
 # Trabajo Práctico N.º 4 — Informática Médica (ITBA)
-<img src="sql/img/itba_logo.png" width="250" alt="Logo ITBA">
+![ITBA Logo](img/itba_logo.png)
 
 **Tema:** BBDD, SQL y Manejo de Versiones  
 **Integrantes:** Imanol González — Marika Rizzo  
